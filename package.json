@@ -1,0 +1,15 @@
+{
+  "name": "full-node-server",
+  "version": "1.0.0",
+  "description": "full only node js server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Andrii Kostiuk",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
